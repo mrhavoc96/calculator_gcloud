@@ -45,7 +45,7 @@ while True:
 
 
 '''
-public static void Addition()
+public static void add()
 {
  Integer a = 4;
  Integer b = 5;
@@ -56,7 +56,7 @@ public static void Addition()
  System.debug('Add =' + d);
  System.debug('Add =' + e);
 }
- public static void Subtraction()
+ public static void sub()
  {
 
 
@@ -71,5 +71,8 @@ System.debug('Sub =' + d1);
 System.debug('Sub =' + e1);
 System.debug('Sub =' + f1);
  }
+
+ add this -> cal.sub(); cal.add()
+ 
 
 '''
